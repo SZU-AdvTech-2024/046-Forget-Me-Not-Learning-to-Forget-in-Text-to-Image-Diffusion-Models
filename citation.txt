@@ -1,0 +1,7 @@
+@inproceedings{REPO046,
+    author = "Zhang, Gong and Wang, Kai and Xu, Xingqian and Wang, Zhangyang and Shi, Humphrey",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "1755--1764",
+    title = "{Forget-me-not: Learning to forget in text-to-image diffusion models}",
+    year = "2024"
+}
